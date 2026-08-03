@@ -76,17 +76,3 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DickyCandraPermana&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-
-### 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=DickyCandraPermana&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=DickyCandraPermana&icon=0&color=0" alt="Profile Views" />
-  </a>
-</div>

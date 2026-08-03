@@ -1,4 +1,4 @@
-# 💫 Dicky Candra Permana
+# Dicky Candra Permana
 
 > Building software with precision and purpose.
 > Currently exploring AI integration, OCR, and CNNs while designing robust backend architectures.
